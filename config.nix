@@ -7,7 +7,6 @@
         zsh-completions
         gcc
         gdb
-        make
         cmake
         openmp
         eigen
