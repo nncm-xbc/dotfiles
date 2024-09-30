@@ -8,16 +8,15 @@
         gcc
         gdb
         cmake
-        openmp
+        llvmPackages_12.openmp
         eigen
         boost
         gsl
         nlopt
-        openmpi
+        mpi
         vtk
         nlohmann_json
         spdlog
-        googletest
         valgrind
         git
       ];
