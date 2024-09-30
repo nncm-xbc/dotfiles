@@ -1,8 +1,10 @@
 {
   packageOverrides = pkgs: with pkgs; {
     myPackages = pkgs.buildEnv {
-      name = "orbital-transfer-pso-packages";
+      name = "orb-pso-tools";
       paths = [
+        neovim
+        zsh-completions
         gcc
         gdb
         make
