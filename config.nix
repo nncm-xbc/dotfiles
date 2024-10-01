@@ -19,7 +19,7 @@
         spdlog
         valgrind
         git
-        catch2
+        catch2_3
       ];
     };
   };
