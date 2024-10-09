@@ -10,16 +10,9 @@
         cmake
         llvmPackages_12.openmp
         eigen
-        boost
-        gsl
-        nlopt
         mpi
-        vtk
-        nlohmann_json
-        spdlog
         valgrind
         git
-        catch2_3
       ];
     };
   };
